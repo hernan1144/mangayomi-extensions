@@ -1,8 +1,12 @@
 {
-  "name": "OtakuVerso",
-  "version": "1.0",
-  "lang": "es",
-  "base_url": "https://www.otakuverso.net/",
-  "type": "anime"
+  "name": "Extensiones de Hernan1144",
+  "author": "hernan1144",
+  "version": 1,
+  "extensions": [
+    {
+      "name": "OtakuVerso",
+      "pkg": "otakuverso.json"
+    }
+  ]
 }
 {}
